@@ -1,5 +1,5 @@
 # README
 
-'''python
+```python
 print("Hello World!")
-'''
+```
